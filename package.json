@@ -17,6 +17,7 @@
     "prop-types": "^15.7.1",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
+    "react-elm-components": "^1.1.0",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
